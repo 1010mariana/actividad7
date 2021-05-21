@@ -1,0 +1,73 @@
+.barra{
+    background: rgb(19, 226, 233) !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 20px;
+}
+
+.letra >li >a{
+    color: white !important;
+}
+
+.forma{
+    background: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    padding: 20px;
+    text-align: justify;
+    }
+
+ .subtitulo{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+    }
+    
+.formulario{
+ 
+    background:rgb(19, 226, 233) ;
+    font-size: 20px;
+    font-family: cursive;
+    padding: 100px;
+    margin: -100px;
+    margin-top: 5px;
+        
+     } 
+    
+.indicacion{
+    color: white;
+    text-align: center;
+    padding: 8px;
+        
+    }
+    
+footer{
+    width: 100%;
+    }
+    
+.iconored{
+    text-align: center;
+    background: rgb(19, 226, 233);
+    width: 100%;
+    
+
+    }
+    
+.icono{
+    display:inline-flex; /* en forma de lista */
+    margin: 50px 35px; /* espacio entre los iconos */
+      
+    }
+    
+.textofooter{
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background: rgb(19, 226, 233);
+    
+    }
+    
